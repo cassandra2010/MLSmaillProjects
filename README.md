@@ -6,3 +6,5 @@ pimaIndian_keras : keras based NN to train the dataset.
   to-do : - separate out train and test data and run again and check accuracy
           - try out different values for the parametrs involved and notice the accuracy changes
           - try out other types of loss functions / output functions and notices changes in accuracy
+ sonarKerasBinClass : binary classifier on sonar.csv using keras
+          - try to optimise by trying different values of the hyperparameters
